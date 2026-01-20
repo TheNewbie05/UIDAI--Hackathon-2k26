@@ -1,5 +1,4 @@
 # Ignore Data Files (Keep these local only)
-*.csv
 *.xlsx
 *.xls
 *.json
