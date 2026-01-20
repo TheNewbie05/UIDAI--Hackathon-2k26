@@ -1,0 +1,14 @@
+# Ignore Data Files (Keep these local only)
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Ignore Python cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Environment/Password files
+.env
+secrets.py
